@@ -5,6 +5,8 @@ Please follow below instructions
   1. Login to GitHub.com
   2. Fork this repository
 
+  3. 
+
   > Note: If Issues and Actions tab not enabled, follow the steps to enable them first
    <ul><li>Click on Settings - General and enable Issues under Features section</li>
    <li>Click on Actions tab and enable it</li>  
